@@ -12,3 +12,15 @@ Analytics Foundations course at Northstar Data Group.
 ## Module Project
 
 To be added at the end of the module.
+
+
+## AI Use Note
+
+I used AI tools (Claude and ChatGPT) as learning aids throughout this project. They were used to:
+
+* Explain Python, NumPy, and pandas concepts.
+* Help debug code and interpret error messages.
+* Review code for correctness.
+
+All code was reviewed, tested, and understood by me before being included in the final project.
+

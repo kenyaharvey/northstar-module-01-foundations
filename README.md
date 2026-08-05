@@ -13,7 +13,7 @@ Analytics Foundations course at Northstar Data Group.
 
 To be added at the end of the module.
 
-## AI Use Note
+AI Use Note
 
 I used AI tools (Claude and ChatGPT) as learning aids throughout this project. They were used to:
 

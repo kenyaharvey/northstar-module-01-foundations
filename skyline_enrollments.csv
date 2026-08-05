@@ -1,0 +1,101 @@
+Enrollment_ids,Course_name,enrollment_year,Final_grade,Hours_studied,Completion_status
+ENR-1857,SQL Basics,2023,D,18.2,In Progress
+ENR-5385,Statistics 101,2024,A,42.0,In Progress
+ENR-2428,SQL Basics,2024,B,26.81,Completed
+ENR-7672,Python for Beginners,2024,B,28.51,In Progress
+ENR-5367,Tableau Fundamentals,2022,A,22.66,In Progress
+ENR-2764,SQL Basics,2022,D,32.81,In Progress
+ENR-1625,Tableau Fundamentals,2023,B,22.04,Completed
+ENR-7211,Python for Beginners,2025,D,34.26,Completed
+ENR-9785,Python for Beginners,2025,F,30.92,In Progress
+ENR-6442,Intro to Analytics,2025,F,34.48,In Progress
+ENR-6583,Python for Beginners,2023,B,34.97,In Progress
+ENR-1850,Python for Beginners,2025,F,35.75,In Progress
+ENR-3615,Intro to Analytics,2023,F,29.3,Completed
+ENR-3212,Intro to Analytics,2024,D,27.38,Dropped
+ENR-6524,Python for Beginners,2026,F,24.67,Completed
+ENR-6468,Tableau Fundamentals,2023,D,30.93,Completed
+ENR-5016,Statistics 101,2022,A,21.01,Completed
+ENR-3683,Intro to Analytics,2023,F,33.81,Completed
+ENR-1027,Intro to Analytics,2026,F,30.22,Completed
+ENR-8147,Statistics 101,2024,F,31.42,Completed
+ENR-2435,Python for Beginners,2022,F,23.58,Dropped
+ENR-7186,Tableau Fundamentals,2023,A,38.41,In Progress
+ENR-2144,SQL Basics,2024,A,27.01,Completed
+ENR-1108,Statistics 101,2026,B,37.41,Completed
+ENR-6168,SQL Basics,2026,A,29.51,In Progress
+ENR-8345,Statistics 101,2026,A,23.64,In Progress
+ENR-2671,Intro to Analytics,2025,F,19.27,Completed
+ENR-1719,Intro to Analytics,2025,C,38.22,Completed
+ENR-2519,Python for Beginners,2023,C,25.91,Completed
+ENR-3329,Tableau Fundamentals,2026,A,22.18,Completed
+ENR-3068,Statistics 101,2022,B,32.24,Completed
+ENR-1347,Statistics 101,2026,A,34.99,Completed
+ENR-5780,Statistics 101,2022,C,29.84,Completed
+ENR-8055,Python for Beginners,2022,F,33.09,In Progress
+ENR-8813,Tableau Fundamentals,2022,F,31.28,Completed
+ENR-5347,SQL Basics,2023,B,31.66,Completed
+ENR-8688,Python for Beginners,2022,C,34.42,Completed
+ENR-1602,Statistics 101,2026,D,26.05,In Progress
+ENR-5998,Intro to Analytics,2025,B,27.57,In Progress
+ENR-6627,Tableau Fundamentals,2024,F,35.33,Completed
+ENR-9547,SQL Basics,2026,D,28.12,In Progress
+ENR-8912,Intro to Analytics,2022,B,39.29,Completed
+ENR-4389,Tableau Fundamentals,2023,B,27.02,Dropped
+ENR-9635,SQL Basics,2024,A,30.95,Completed
+ENR-6165,SQL Basics,2024,B,30.98,Completed
+ENR-1205,SQL Basics,2024,D,28.97,Completed
+ENR-7524,SQL Basics,2024,B,31.55,Completed
+ENR-9400,Statistics 101,2025,A,21.23,Completed
+ENR-8116,Tableau Fundamentals,2024,B,30.63,Completed
+ENR-9823,Tableau Fundamentals,2023,C,26.01,Dropped
+ENR-8964,Statistics 101,2022,C,22.93,Completed
+ENR-9529,Statistics 101,2026,C,24.65,In Progress
+ENR-7873,Tableau Fundamentals,2023,B,23.62,In Progress
+ENR-7136,SQL Basics,2023,D,36.75,Completed
+ENR-9356,Intro to Analytics,2024,C,34.25,Completed
+ENR-1521,Statistics 101,2022,D,37.14,Dropped
+ENR-3973,Tableau Fundamentals,2025,B,28.96,Dropped
+ENR-2353,Python for Beginners,2023,B,29.38,Completed
+ENR-8977,Tableau Fundamentals,2025,D,29.59,In Progress
+ENR-5290,SQL Basics,2025,D,29.99,Completed
+ENR-3787,Python for Beginners,2025,C,28.42,Dropped
+ENR-6487,SQL Basics,2023,F,33.83,Completed
+ENR-6520,Statistics 101,2023,A,22.71,Completed
+ENR-7409,Intro to Analytics,2023,D,35.63,Completed
+ENR-2200,Python for Beginners,2025,C,31.62,Dropped
+ENR-8483,Statistics 101,2023,D,32.75,Completed
+ENR-7351,SQL Basics,2023,C,31.39,In Progress
+ENR-6506,Python for Beginners,2024,C,27.27,Dropped
+ENR-1267,Python for Beginners,2023,D,30.55,Dropped
+ENR-4097,Tableau Fundamentals,2022,B,35.14,Completed
+ENR-2444,Statistics 101,2022,D,29.86,In Progress
+ENR-6955,Python for Beginners,2026,B,32.18,In Progress
+ENR-1210,Intro to Analytics,2024,D,30.08,In Progress
+ENR-6765,Intro to Analytics,2025,D,27.15,Completed
+ENR-4754,Tableau Fundamentals,2022,D,42.95,Completed
+ENR-7647,Python for Beginners,2026,D,33.56,In Progress
+ENR-9716,Tableau Fundamentals,2024,A,27.77,Completed
+ENR-9208,Tableau Fundamentals,2024,A,35.05,In Progress
+ENR-1978,Tableau Fundamentals,2023,F,29.04,Completed
+ENR-5713,Python for Beginners,2022,F,33.97,Completed
+ENR-9106,Python for Beginners,2022,A,22.67,Completed
+ENR-4823,SQL Basics,2024,A,21.73,Dropped
+ENR-9915,Tableau Fundamentals,2026,F,29.59,Dropped
+ENR-8926,Tableau Fundamentals,2023,B,25.23,Completed
+ENR-3909,Tableau Fundamentals,2023,C,23.3,Dropped
+ENR-3519,Tableau Fundamentals,2025,B,34.91,In Progress
+ENR-9788,Intro to Analytics,2024,F,29.73,Completed
+ENR-8282,Python for Beginners,2026,B,34.9,Completed
+ENR-7202,Tableau Fundamentals,2024,D,26.93,In Progress
+ENR-8557,Python for Beginners,2023,F,21.8,In Progress
+ENR-1723,Statistics 101,2022,C,37.18,Completed
+ENR-1166,Tableau Fundamentals,2025,C,27.77,Completed
+ENR-3207,Python for Beginners,2023,F,29.04,Dropped
+ENR-8476,SQL Basics,2025,D,38.53,Dropped
+ENR-4165,Tableau Fundamentals,2022,A,36.31,Completed
+ENR-1344,Statistics 101,2022,D,30.04,Completed
+ENR-5200,Tableau Fundamentals,2023,D,30.44,In Progress
+ENR-6767,Python for Beginners,2026,C,39.05,Completed
+ENR-5455,Intro to Analytics,2025,B,25.93,Completed
+ENR-8115,Intro to Analytics,2024,B,36.01,In Progress

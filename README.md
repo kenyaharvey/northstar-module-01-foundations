@@ -8,6 +8,7 @@ Analytics Foundations course at Northstar Data Group.
 - `lesson-1-1-analyst-mindset/`. Lifecycle worksheets for the
   NorthwoodFresh and Brewbird scenarios
 - `lesson-1-2-types-of-data/`. Synthetic dataset generation practice
+- 'lesson-1-3-summary-statistics/'. Skyline Statistics
 
 ## Module Project
 

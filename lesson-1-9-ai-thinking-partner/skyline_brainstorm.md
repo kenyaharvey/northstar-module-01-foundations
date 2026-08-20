@@ -133,9 +133,9 @@ Method: Calculate group medians and interquartile ranges (IQR) evaluated via a K
 | 7 |  Do students who study more hours have a higher likelihood of completing the course?| Tool 1 | Pass | Pass | Pass | Pass | ✓ Verified
 | 8 | Has student enrollment grown or declined over time?| Both | Pass | Pass | Pass | Pass | ✓  Verified
 | 9 | Do certain courses tend to produce better final grades than others?| Tool 1 | Pass | Pass | Pass | Pass |  ✓ Verified
-| 10 | Is there a relationship between the year a student enrolled and how many hours they studied?| Tool 1 | Pass | Pass | Pass | Pass |  ✓ Verified
-| 11 | Do dropped students show different study-hour patterns than those who completed or are still in progress?| Tool 1 | Pass | Pass | Pass |  ✓ Verified
-| 12 | Which combination of course and enrollment year has the lowest completion rate, signaling where support may be needed?| Tool 1 | Pass | Pass | Pass | ✓ Verified
+| 10 | Is there a relationship between the year a student enrolled and how many hours they studied?| Tool 1 | Pass | Pass | Pass | Pass | ✓ Verified
+| 11 | Do dropped students show different study-hour patterns than those who completed or are still in progress?| Tool 1 | Pass | Pass | Pass | Pass | ✓ Verified
+| 12 | Which combination of course and enrollment year has the lowest completion rate, signaling where support may be needed?| Tool 1 | Pass | Pass | Pass | Pass | ✓ Verified
 | 13 | What is the overall distribution of student completion statuses across the platform?| Tool 2 | Pass | Pass | Pass | Pass |  ✓ Verified
 | 14 | Which specific courses generate the highest total volume of student enrollments?| Both | Fail | Pass | Pass | Pass | Context-missing
 | 15 | What is the difference in study hours between students who complete their courses versus those who drop out?| Tool 2 | Pass | Pass | Pass |Pass | ✓ Verified
@@ -144,7 +144,7 @@ Method: Calculate group medians and interquartile ranges (IQR) evaluated via a K
 | 18 | How has the annual volume of total student enrollments evolved across enrollment years?| Both | Pass | Pass | Pass | Pass | ✓ Verified
 | 19 | How do the proportions of final grades differ across individual courses?| Tool 2 | Pass | Pass | Pass | Pass | ✓  Verified
 | 20 | Have the average study hours invested by students changed across different enrollment years?| Tool 2 | Pass | Pass | Pass | Pass | ✓ Verified 
-| 21 | Are higher final grades associated with specific completion statuses?| Tool 2 | Pass | Pass | Pass | ✓ Verified
+| 21 | Are higher final grades associated with specific completion statuses?| Tool 2 | Pass | Pass | Pass | Pass | ✓ Verified
 | 22 | How do median study hours compare across different final grade categories?| Tool 2 | Pass | Pass |  Pass | Pass | ✓ Verified
 
 

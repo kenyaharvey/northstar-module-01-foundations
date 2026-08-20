@@ -173,19 +173,30 @@ Method: Calculate Spearman’s rank correlation between visits and satisfaction 
 | 22 | Is higher visit frequency associated with higher customer satisfaction ratings?| Both | 'visits_last_year, satisfaction' | Pass | Pass: Calculate Spearman’s rank correlation between visits and satisfaction score, visualized using a jittered scatter plot or box plot of visits grouped by satisfaction level. | Pass | ✓ Verified
 
 
+
 ## Verified question list
 
-| # | Verified question | Tool source |
+| # | Theme | Verified question |
 |---|---|---|
-| 1 | Which region generates the highest average customer spend? | Both |
-| 2 | How is total spending distributed across all customers, and are there outliers? | Tool 1 |
-| 3 | Is visit frequency associated with total spending? | Both |
-| 4 | Does customer satisfaction correlate with visit frequency? | Both |
-| 5 | Do high-spending customers tend to report higher satisfaction? | Tool 1 |
-| 6 | Does customer satisfaction differ across regions? | Both |
-| 7 | Which region has the most customers, and how is the customer base distributed geographically? | Both |
-| 8 | What is the average number of visits last year, and how much does it vary? | Tool 1 |
-| 9 | Do newer customers visit less frequently than long-tenured customers? | Both |
-| 10 | Do recent customer cohorts spend differently from longer-term customers? | Tool 2 |
-| 11 | Does visit frequency differ by region? | Tool 2 |
-| 12 | Has regional composition shifted across first-visit-year cohorts? | Tool 1 |
+| 1 | Segmentation | Which region has the most customers, and how is the customer base distributed geographically? |
+| 2 | Segmentation | How are Crescent Bakery’s customers distributed geographically across regions? |
+| 3 | Behavior | Is there a relationship between how long someone has been a customer and how much they've spent? |
+| 4 | Behavior | Do customers who visit more frequently also spend more in total? |
+| 5 | Behavior | Are newer customers (recent first-visit year) visiting less frequently than long-tenured ones? |
+| 6 | Behavior | What's the average number of visits last year, and how much does it vary? |
+| 7 | Behavior | Is there a relationship between visit frequency and total spending (i.e., do frequent visitors spend more overall)? |
+| 8 | Behavior | Are earlier cohorts (older first_visit_year) visiting more frequently than newer cohorts? |
+| 9 | Satisfaction | What is the overall distribution of customer satisfaction ratings? |
+| 10 | Satisfaction | Does customer satisfaction correlate with visit frequency? |
+| 11 | Satisfaction | Do high-spending customers (top spenders) tend to report higher satisfaction? |
+| 12 | Satisfaction | What is the overall customer satisfaction level, and how is it distributed across the customer base? |
+| 13 | Satisfaction | Is there a relationship between customer satisfaction ratings and total spend? |
+| 14 | Satisfaction | Is higher visit frequency associated with higher customer satisfaction ratings? |
+| 15 | Regional Patterns | Which region generates the highest average customer spend? |
+| 16 | Regional Patterns | Does the region a customer belongs to relate to their satisfaction level? |
+| 17 | Regional Patterns | Which region generates the highest average spending per customer? |
+| 18 | Regional Patterns | Does customer visit frequency in the last year vary significantly by region? |
+| 19 | Regional Patterns | Do regional customer bases exhibit different levels of reported satisfaction? |
+| 20 | Time Trends | How is total spending distributed across all customers, and are there outliers? |
+| 21 | Time Trends | Has the year customers first visited shifted the regional composition of the customer base over time? |
+| 22 | Time Trends | Are more recent customer cohorts (by first_visit_year) spending differently compared to long-term customers? |

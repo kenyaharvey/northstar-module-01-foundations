@@ -24,4 +24,4 @@ I used AI tools (Claude and ChatGPT) as learning aids throughout this project. T
 
 All code was reviewed, tested, and understood by me before being included in the final project.
 
-# Module 2: Excel for Analysts (in progress).
+
